@@ -1,0 +1,239 @@
+Rank,City,Quality of Life Index,Purchasing Power Index,Safety Index,Health Care Index,Cost of Living Index,Property Price to Income Ratio,Traffic Commute Time Index,Pollution Index,Climate Index,City_Name,Country_Name,UF,Macro_Regiao
+0,"Canberra, Australia",224.39,142.88,77.69,81.99,65.71,4.12,24.34,13.66,82.72,Canberra,Australia,0,Oceania
+1,"The Hague (Den Haag), Netherlands",214.67,122.41,79.02,80.93,61.36,5.97,23.04,19.13,90.61,The Hague ,Netherlands,0,Europa
+2,"Adelaide, Australia",214.44,127.27,69.45,80.76,68.33,3.48,24.33,19.0,94.96,Adelaide,Australia,0,Oceania
+3,"Raleigh, NC, United States",208.71,144.12,64.74,77.62,65.1,3.26,33.6,20.62,83.88,Raleigh,United States,NC,America
+4,"Eindhoven, Netherlands",201.43,111.77,76.34,75.91,66.25,5.95,25.06,22.75,85.38,Eindhoven,Netherlands,0,Europa
+5,"Brisbane, Australia",199.37,122.75,65.07,82.21,69.12,5.69,39.18,23.47,98.07,Brisbane,Australia,0,Oceania
+6,"Wellington, New Zealand",198.98,97.96,69.72,74.96,67.06,8.3,27.74,13.1,97.68,Wellington,New Zealand,0,Oceania
+7,"Perth, Australia",198.86,128.63,58.41,77.87,69.78,4.25,36.08,23.37,95.71,Perth,Australia,0,Oceania
+8,"Columbus, OH, United States",196.7,138.45,55.88,73.95,68.27,3.97,25.04,24.97,71.29,Columbus,United States,OH,America
+9,"Quebec City, Canada",196.1,130.23,85.33,73.18,61.86,5.71,27.31,27.55,47.98,Quebec City,Canada,0,America
+10,"Zurich, Switzerland",195.7,120.73,81.7,74.1,112.21,10.81,32.73,17.78,81.48,Zurich,Switzerland,0,Europa
+11,"San Antonio, TX, United States",192.75,164.68,51.53,70.86,61.26,2.45,30.65,45.29,80.58,San Antonio,United States,TX,America
+12,"Charlotte, NC, United States",192.75,137.35,54.69,74.02,70.14,2.47,35.7,29.75,84.05,Charlotte,United States,NC,America
+13,"Austin, TX, United States",191.85,145.99,61.73,70.35,68.09,4.54,34.22,36.68,82.08,Austin,United States,TX,America
+14,"Albuquerque, NM, United States",191.71,172.74,28.31,63.61,65.32,2.1,25.29,27.09,67.06,Albuquerque,United States,NM,America
+15,"Oklahoma City, OK, United States",190.94,113.74,50.61,73.98,66.16,2.05,25.0,21.24,77.61,Oklahoma City,United States,OK,America
+16,"Copenhagen, Denmark",190.73,98.66,73.35,78.02,75.59,8.81,28.22,21.07,83.74,Copenhagen,Denmark,0,Europa
+17,"Sydney, Australia",190.64,125.07,66.28,78.88,73.08,9.47,43.19,27.1,97.07,Sydney,Australia,0,Oceania
+18,"Madison, WI, United States",189.26,107.91,67.31,80.38,67.99,4.44,24.18,20.39,51.64,Madison,United States,WI,America
+19,"Victoria, Canada",188.59,101.59,61.35,68.83,71.48,9.34,30.1,14.33,92.52,Victoria,Canada,0,America
+20,"Tampa, FL, United States",187.33,131.95,53.59,68.08,73.25,2.83,35.84,29.44,84.67,Tampa,United States,FL,America
+21,"Vienna, Austria",187.01,93.85,72.35,78.05,60.04,14.28,25.86,17.96,81.77,Vienna,Austria,0,Europa
+22,"Melbourne, Australia",186.66,120.47,55.62,76.4,71.1,6.86,40.56,25.62,94.3,Melbourne,Australia,0,Oceania
+23,"Geneva, Switzerland",186.53,111.37,70.2,73.94,100.86,11.4,25.2,24.22,82.61,Geneva,Switzerland,0,Europa
+24,"Milwaukee, WI, United States",186.49,162.59,33.95,66.8,66.85,1.81,29.0,29.35,60.96,Milwaukee,United States,WI,America
+25,"Reykjavik, Iceland",186.38,87.11,76.41,67.32,83.7,7.98,20.74,14.74,68.81,Reykjavik,Iceland,0,Europa
+26,"Edinburgh, United Kingdom",185.81,95.39,69.1,80.42,58.18,8.08,28.86,28.12,84.01,Edinburgh,United Kingdom,0,Europa
+27,"San Diego, CA, United States",185.28,124.36,60.97,70.41,80.16,6.49,33.89,36.02,97.08,San Diego,United States,CA,America
+28,"Orlando, FL, United States",184.2,143.78,48.73,62.78,70.28,2.56,36.58,35.98,87.23,Orlando,United States,FL,America
+29,"Helsinki, Finland",183.36,90.92,75.13,78.3,66.55,12.16,29.45,13.93,62.79,Helsinki,Finland,0,Europa
+30,"Seattle, WA, United States",183.13,132.11,48.35,74.17,90.62,4.69,42.11,28.98,91.73,Seattle,United States,WA,America
+31,"Kansas City, MO, United States",182.81,126.55,42.17,75.4,66.48,2.09,26.97,32.79,75.08,Kansas City,United States,MO,America
+32,"Abu Dhabi, United Arab Emirates",182.59,115.83,89.2,73.56,55.48,4.46,26.59,43.65,43.89,Abu Dhabi,United Arab Emirates,0,Asia
+33,"Dusseldorf, Germany",181.89,111.42,64.5,73.04,61.42,9.88,30.29,32.66,86.37,Dusseldorf,Germany,0,Europa
+34,"Luxembourg, Luxembourg",181.71,104.91,69.43,73.87,73.17,13.84,32.36,22.08,82.62,Luxembourg,Luxembourg,0,Europa
+35,"Munich, Germany",181.22,101.51,81.27,76.85,67.28,16.18,32.91,25.08,75.98,Munich,Germany,0,Europa
+36,"Rotterdam, Netherlands",180.54,100.28,65.37,76.67,64.68,6.39,27.49,38.42,87.89,Rotterdam,Netherlands,0,Europa
+37,"Gothenburg, Sweden",180.51,105.86,52.84,67.87,58.12,8.83,25.76,20.57,77.49,Gothenburg,Sweden,0,Europa
+38,"Muscat, Oman",179.94,92.51,79.66,59.39,49.82,4.03,20.69,35.55,67.22,Muscat,Oman,0,Asia
+39,"Cambridge, United Kingdom",179.56,99.35,70.81,74.92,64.4,10.98,34.27,32.18,91.37,Cambridge,United Kingdom,0,39
+40,"Ottawa, Canada",178.9,104.45,72.26,73.48,67.16,6.02,31.59,22.05,44.46,Ottawa,Canada,0,America
+41,"San Jose, CA, United States",178.87,144.36,52.93,73.38,81.69,7.12,38.49,48.0,95.53,San Jose,United States,CA,America
+42,"Calgary, Canada",178.81,119.59,63.3,75.0,69.19,4.01,30.02,23.65,33.09,Calgary,Canada,0,America
+43,"Dallas, TX, United States",178.79,137.61,50.58,66.8,75.08,2.36,35.15,42.15,81.85,Dallas,United States,TX,America
+44,"Jacksonville, FL, United States",178.69,137.5,43.18,70.76,71.7,2.72,35.33,41.87,87.81,Jacksonville,United States,FL,America
+45,"Spokane, WA, United States",177.65,111.85,44.75,64.69,72.72,2.76,23.73,23.72,67.12,Spokane,United States,WA,America
+46,"Dubai, United Arab Emirates",176.8,131.99,83.56,67.98,65.56,3.46,37.4,49.51,50.27,Dubai,United Arab Emirates,0,Asia
+47,"Glasgow, United Kingdom",176.64,104.61,54.11,82.37,58.01,7.4,32.75,35.84,84.78,Glasgow,United Kingdom,0,Europa
+48,"Amsterdam, Netherlands",176.12,96.46,66.76,69.59,72.71,11.01,28.7,30.3,87.45,Amsterdam,Netherlands,0,Europa
+49,"Portland, OR, United States",175.7,110.08,45.78,73.18,81.11,4.85,32.78,31.5,89.56,Portland,United States,OR,America
+50,"Auckland, New Zealand",175.23,105.26,52.03,72.1,72.63,9.8,36.94,29.25,99.89,Auckland,New Zealand,0,Oceania
+51,"Minneapolis, MN, United States",174.74,131.34,45.18,78.46,74.65,4.85,35.99,26.92,49.46,Minneapolis,United States,MN,America
+52,"Halifax, Canada",173.06,97.79,58.91,68.14,68.6,4.83,30.55,23.19,58.99,Halifax,Canada,0,America
+53,"Indianapolis, IN, United States",172.94,130.44,41.47,73.65,76.85,1.95,29.54,42.5,69.92,Indianapolis,United States,IN,America
+54,"Vancouver, Canada",172.49,92.92,60.82,74.06,72.93,12.53,36.63,25.45,91.15,Vancouver,Canada,0,America
+55,"Frankfurt, Germany",172.48,108.71,54.95,75.19,62.75,13.28,26.04,36.33,84.72,Frankfurt,Germany,0,Europa
+56,"Stuttgart, Germany",171.86,116.1,68.52,71.09,59.94,11.33,34.06,44.92,81.07,Stuttgart,Germany,0,Europa
+57,"Nashville, TN, United States",171.58,116.92,53.37,63.95,81.74,3.65,38.98,35.71,83.02,Nashville,United States,TN,America
+58,"Edmonton, Canada",171.55,117.69,54.95,77.71,68.78,2.96,29.29,30.46,32.11,Edmonton,Canada,0,America
+59,"Cincinnati, OH, United States",171.45,110.46,52.6,68.77,64.8,2.69,24.74,44.11,73.24,Cincinnati,United States,OH,America
+60,"Cork, Ireland",170.74,88.24,63.9,55.85,62.99,5.64,35.38,28.72,89.78,Cork,Ireland,0,Europa
+61,"Denver, CO, United States",170.68,137.69,55.17,69.68,78.97,3.62,36.05,43.6,56.28,Denver,United States,CO,America
+62,"Valencia, Spain",170.38,70.6,68.12,81.32,47.61,7.87,28.75,43.09,93.84,Valencia,Spain,0,Europa
+63,"Hamburg, Germany",170.12,101.08,57.17,74.04,65.8,11.97,34.69,30.3,82.75,Hamburg,Germany,0,Europa
+64,"Pittsburgh, PA, United States",169.96,116.96,62.45,75.58,78.1,3.7,38.53,47.32,72.13,Pittsburgh,United States,PA,America
+65,"Kelowna, Canada",168.58,107.97,37.83,74.93,64.19,5.07,29.61,25.61,59.65,Kelowna,Canada,0,America
+66,"Belfast, United Kingdom",168.42,84.93,54.23,70.75,58.7,7.53,39.15,27.4,90.84,Belfast,United Kingdom,0,Europa
+67,"Tallinn, Estonia",168.09,61.03,75.73,72.54,54.83,12.08,26.29,20.89,64.28,Tallinn,Estonia,0,Europa
+68,"Regina, Canada",168.06,143.97,46.9,65.83,61.9,2.64,17.2,39.97,14.28,Regina,Canada,0,America
+69,"Boston, MA, United States",168.02,108.54,61.68,74.54,85.86,8.16,44.98,31.09,71.73,Boston,United States,MA,America
+70,"Anchorage, AK, United States",168.01,114.79,37.75,61.17,88.41,2.44,26.75,15.69,41.61,Anchorage,United States,AK,America
+71,"Oslo, Norway",167.98,88.67,65.73,77.87,88.58,11.69,30.94,23.22,59.99,Oslo,Norway,0,Europa
+72,"Sacramento, CA, United States",167.88,110.13,51.19,68.37,84.34,6.41,27.01,46.48,90.64,Sacramento,United States,CA,America
+73,"Oakland, CA, United States",167.65,121.46,32.64,77.95,89.64,6.64,37.69,39.19,96.4,Oakland,United States,CA,America
+74,"Ljubljana, Slovenia",167.04,61.13,78.58,66.31,49.91,14.33,27.32,23.42,76.11,Ljubljana,Slovenia,0,Europa
+75,"Atlanta, GA, United States",166.98,130.33,36.92,69.09,72.72,3.17,41.69,44.79,89.73,Atlanta,United States,GA,America
+76,"Baltimore, MD, United States",166.95,136.31,24.25,77.3,76.05,0.93,31.15,50.38,81.24,Baltimore,United States,MD,America
+77,"Houston, TX, United States",166.87,147.53,36.11,71.96,68.19,2.33,41.9,56.1,85.53,Houston,United States,TX,America
+78,"Mississauga, Canada",166.55,103.44,57.19,69.82,65.13,9.4,38.06,23.98,58.72,Mississauga,Canada,0,America
+79,"Salt Lake City, UT, United States",166.47,130.33,67.35,70.61,65.15,3.6,35.42,62.88,66.52,Salt Lake City,United States,UT,America
+80,"Washington, DC, United States",165.62,128.39,40.32,69.52,82.76,5.61,40.49,40.16,81.62,Washington,United States,DC,America
+81,"Kaunas, Lithuania",165.54,64.03,62.32,74.27,42.69,9.89,23.67,26.88,68.94,Kaunas,Lithuania,0,Europa
+82,"Bristol, United Kingdom",165.42,95.83,57.5,74.36,59.75,10.28,29.29,45.01,88.51,Bristol,United Kingdom,0,Europa
+83,"Vilnius, Lithuania",165.23,59.44,73.29,73.82,46.86,13.1,27.53,23.05,66.59,Vilnius,Lithuania,0,Europa
+84,"Leeds, United Kingdom",165.04,96.66,56.99,81.76,57.8,12.08,29.86,45.34,84.59,Leeds,United Kingdom,0,Europa
+85,"Stockholm, Sweden",164.93,96.56,53.93,66.94,66.69,14.09,35.0,18.6,69.67,Stockholm,Sweden,0,Europa
+86,"Tokyo, Japan",164.2,88.3,75.48,79.85,65.78,13.11,41.71,43.0,85.26,Tokyo,Japan,0,Asia
+87,"Berlin, Germany",162.44,99.06,56.79,68.44,63.52,11.36,34.23,38.86,83.35,Berlin,Germany,0,Europa
+88,"Madrid, Spain",159.85,82.28,69.73,80.02,50.45,11.44,35.34,51.41,85.47,Madrid,Spain,0,Europa
+89,"Split, Croatia",159.77,52.57,66.62,66.2,43.05,17.57,16.34,34.63,96.26,Split,Croatia,0,Europa
+90,"Honolulu, HI, United States",159.42,89.53,53.6,72.53,103.81,8.13,41.19,37.3,95.33,Honolulu,United States,HI,America
+91,"Cologne, Germany",159.07,88.96,57.71,73.1,61.9,11.5,36.09,40.74,84.85,Cologne,Germany,0,Europa
+92,"Prague, Czech Republic",159.01,68.73,75.44,74.73,49.92,19.46,32.26,33.61,80.67,Prague,Czech Republic,0,Europa
+93,"Qingdao, Shandong, China",158.86,77.96,91.2,77.48,31.02,20.08,27.46,53.2,70.4,Qingdao,China,Shandong,93
+94,"Phoenix, AZ, United States",158.83,136.14,47.44,66.56,73.83,2.48,32.64,56.55,53.76,Phoenix,United States,AZ,America
+95,"Brno, Czech Republic",158.68,70.52,74.09,74.26,44.51,16.31,26.07,42.82,78.17,Brno,Czech Republic,0,Europa
+96,"Montreal, Canada",158.1,96.47,68.59,63.39,65.51,8.45,40.04,33.86,52.37,Montreal,Canada,0,America
+97,"Porto, Portugal",158.08,48.41,64.53,75.9,43.57,14.11,29.52,34.32,96.61,Porto,Portugal,0,Europa
+98,"Zagreb, Croatia",157.63,56.84,78.1,63.45,46.6,13.95,31.96,33.52,82.19,Zagreb,Croatia,0,Europa
+99,"Antwerp, Belgium",157.02,89.35,60.92,81.0,64.03,5.83,37.8,58.37,85.42,Antwerp,Belgium,0,Europa
+100,"Doha, Qatar",154.91,96.28,85.88,73.69,58.59,7.4,29.79,59.81,36.03,Doha,Qatar,0,Asia
+101,"Birmingham, United Kingdom",154.7,104.64,36.51,72.26,54.91,9.45,32.87,48.24,87.66,Birmingham,United Kingdom,0,Europa
+102,"Philadelphia, PA, United States",153.86,126.01,35.57,68.82,79.01,4.26,40.07,53.47,77.98,Philadelphia,United States,PA,America
+103,"Timisoara, Romania",153.52,56.1,76.45,71.93,34.43,10.61,23.52,56.18,82.05,Timisoara,Romania,0,Europa
+104,"Miami, FL, United States",153.26,91.93,48.36,63.69,81.04,5.63,43.44,39.42,85.69,Miami,United States,FL,America
+105,"Lyon, France",152.47,91.68,46.87,78.35,68.82,8.96,35.89,52.04,88.51,Lyon,France,0,Europa
+106,"Singapore, Singapore",152.42,92.55,72.19,70.88,83.21,17.06,41.42,33.16,57.45,Singapore,Singapore,0,Asia
+107,"Tel Aviv-Yafo, Israel",151.8,80.02,73.28,74.48,78.56,20.01,36.71,47.57,93.88,Tel Aviv-Yafo,Israel,0,Asia
+108,"Manchester, United Kingdom",151.6,95.69,43.69,77.67,59.53,7.14,40.46,52.87,86.95,Manchester,United Kingdom,0,Europa
+109,"Riyadh, Saudi Arabia",151.43,101.59,73.2,64.79,53.07,3.29,30.65,63.92,44.45,Riyadh,Saudi Arabia,0,Asia
+110,"Las Vegas, NV, United States",150.76,114.68,45.58,55.26,72.83,3.41,27.41,52.11,57.4,Las Vegas,United States,NV,America
+111,"Taipei, Taiwan",150.56,78.11,85.61,86.49,54.33,30.36,34.96,49.42,84.38,Taipei,Taiwan,0,Asia
+112,"Lisbon, Portugal",148.26,44.28,70.58,72.41,47.82,19.93,35.63,36.07,98.59,Lisbon,Portugal,0,Europa
+113,"Toronto, Canada",148.17,87.4,58.29,75.68,71.44,13.36,44.82,37.61,65.35,Toronto,Canada,0,America
+114,"Cluj-Napoca, Romania",147.81,53.63,78.0,64.35,38.27,15.24,29.41,44.09,74.35,Cluj-Napoca,Romania,0,Europa
+115,"Bursa, Turkey",147.59,25.6,71.56,79.44,36.16,11.86,33.0,44.04,93.39,Bursa,Turkey,0,Asia
+116,"Chicago, IL, United States",147.58,117.38,34.08,64.84,76.9,3.08,41.6,49.21,66.11,Chicago,United States,IL,America
+117,"Jeddah (Jiddah), Saudi Arabia",146.29,82.73,71.82,59.57,51.67,3.34,30.46,67.29,66.17,Jeddah ,Saudi Arabia,0,Asia
+118,"Riga, Latvia",146.28,52.34,62.09,61.52,50.85,9.29,31.28,37.79,74.7,Riga,Latvia,0,Europa
+119,"Bratislava, Slovakia",145.86,61.35,69.79,56.81,46.67,16.63,31.01,39.6,80.72,Bratislava,Slovakia,0,Europa
+120,"Nicosia, Cyprus",145.68,63.64,69.6,54.49,51.84,6.63,25.07,61.04,86.01,Nicosia,Cyprus,0,Asia
+121,"Cape Town, South Africa",145.14,73.86,26.59,68.58,34.86,6.87,42.86,39.12,98.19,Cape Town,South Africa,0,Africa
+122,"Limassol, Cyprus",144.78,51.29,66.62,51.36,56.26,8.64,20.0,55.86,95.74,Limassol,Cyprus,0,Asia
+123,"Brussels, Belgium",144.5,92.74,45.55,73.87,64.32,6.93,36.74,61.71,83.85,Brussels,Belgium,0,Europa
+124,"San Francisco, CA, United States",144.38,110.59,39.29,63.91,97.78,8.47,51.24,50.43,97.26,San Francisco,United States,CA,America
+125,"Nizhny Novgorod, Russia",143.2,41.63,71.25,75.67,44.08,14.93,27.59,32.08,45.51,Nizhny Novgorod,Russia,0,Europa
+126,"Barcelona, Spain",142.32,72.51,50.14,77.55,55.06,10.51,29.72,65.72,95.73,Barcelona,Spain,0,Europa
+127,"Hamilton, Canada",141.77,88.59,44.55,79.29,68.85,7.6,33.03,55.51,61.06,Hamilton,Canada,0,America
+128,"Gdansk, Poland",140.13,65.07,69.13,50.3,36.31,14.85,29.84,48.54,75.51,Gdansk,Poland,0,Europa
+129,"Dublin, Ireland",139.94,78.13,47.72,51.05,70.82,9.61,40.37,41.01,85.89,Dublin,Ireland,0,Europa
+130,"Curitiba, Brazil",139.08,38.33,38.1,66.77,35.57,14.2,32.41,31.87,99.6,Curitiba,Brazil,0,America
+131,"Los Angeles, CA, United States",138.95,120.28,48.58,62.18,78.32,6.88,60.98,67.43,95.5,Los Angeles,United States,CA,America
+132,"Durban, South Africa",138.81,73.43,18.85,58.22,34.97,3.29,26.11,52.96,95.61,Durban,South Africa,0,Africa
+133,"Islamabad, Pakistan",138.65,28.31,69.55,64.23,19.47,11.81,34.93,41.34,76.91,Islamabad,Pakistan,0,Asia
+134,"Bologna, Italy",137.82,59.88,51.4,77.44,60.6,10.97,32.9,58.04,88.12,Bologna,Italy,0,Europa
+135,"Pretoria, South Africa",137.66,89.79,18.05,66.11,35.67,1.98,45.51,56.04,95.83,Pretoria,South Africa,0,Africa
+136,"Poznan, Poland",137.62,61.07,71.7,54.07,35.3,12.71,31.21,57.36,77.41,Poznan,Poland,0,Europa
+137,"Varna, Bulgaria",137.28,51.29,63.17,62.17,36.09,9.19,29.29,60.9,85.08,Varna,Bulgaria,0,Europa
+138,"London, United Kingdom",137.04,96.96,46.04,70.32,69.6,14.37,44.43,58.14,88.25,London,United Kingdom,0,Europa
+139,"New York, NY, United States",136.89,100.0,51.16,62.23,100.0,9.94,43.59,57.6,79.66,New York,United States,NY,America
+140,"Winnipeg, Canada",135.4,81.5,40.41,68.37,65.12,6.31,31.16,36.85,24.67,Winnipeg,Canada,0,America
+141,"Johannesburg, South Africa",135.27,95.79,19.25,60.61,37.67,2.34,40.73,61.35,91.38,Johannesburg,South Africa,0,Africa
+142,"Warsaw, Poland",135.22,63.37,73.9,59.52,40.06,14.42,35.22,59.58,74.61,Warsaw,Poland,0,Europa
+143,"Wroclaw, Poland",134.74,59.42,73.66,56.77,37.72,12.82,34.46,61.3,78.39,Wroclaw,Poland,0,Europa
+144,"Brasilia, Brazil",134.69,39.76,40.85,51.7,40.19,13.83,30.57,33.27,98.97,Brasilia,Brazil,0,America
+145,"Pune, India",134.62,84.67,58.76,66.02,23.95,8.44,43.43,70.88,74.32,Pune,India,0,Asia
+146,"Lodz, Poland",133.97,61.3,58.36,56.34,33.77,10.58,34.86,54.84,77.02,Lodz,Poland,0,Europa
+147,"Lviv, Ukraine",132.91,42.62,62.0,61.25,25.66,11.5,32.06,49.11,69.61,Lviv,Ukraine,0,Europa
+148,"Krakow (Cracow), Poland",132.74,67.83,74.2,57.53,37.63,13.17,30.94,70.07,73.86,Krakow ,Poland,0,Europa
+149,"Turin, Italy",131.83,67.77,46.9,66.79,56.48,8.17,28.14,69.17,85.66,Turin,Italy,0,Europa
+150,"Izmir, Turkey",131.76,28.55,69.18,72.7,28.99,13.07,40.3,59.26,96.88,Izmir,Turkey,0,Asia
+151,"Detroit, MI, United States",131.38,108.16,24.96,62.39,74.02,1.49,45.09,59.84,66.03,Detroit,United States,MI,America
+152,"Novi Sad, Serbia",131.17,42.83,58.81,50.77,34.08,16.35,18.47,52.04,84.02,Novi Sad,Serbia,0,Europa
+153,"Iasi, Romania",130.44,49.01,69.92,56.33,34.17,11.6,34.26,58.28,73.04,Iasi,Romania,0,Europa
+154,"Campinas, Brazil",130.38,41.85,33.68,61.27,38.62,11.03,28.44,47.34,98.87,Campinas,Brazil,0,America
+155,"Ankara, Turkey",128.3,33.39,60.9,68.63,28.39,8.65,36.44,65.62,91.49,Ankara,Turkey,0,Asia
+156,"Monterrey, Mexico",127.57,54.13,52.85,68.85,41.49,7.77,31.68,70.61,80.37,Monterrey,Mexico,0,America
+157,"Sharjah, United Arab Emirates",127.5,41.97,84.31,59.72,47.05,5.49,54.74,48.32,43.35,Sharjah,United Arab Emirates,0,Asia
+158,"Budapest, Hungary",127.39,54.98,65.11,52.44,40.71,14.78,39.09,53.8,78.41,Budapest,Hungary,0,Europa
+159,"Chiang Mai, Thailand",127.05,29.87,76.9,84.06,33.84,15.22,25.12,76.68,75.93,Chiang Mai,Thailand,0,Asia
+160,"Guadalajara, Mexico",126.62,46.27,37.94,79.68,37.48,7.93,41.56,61.82,92.83,Guadalajara,Mexico,0,America
+161,"Seoul, South Korea",126.57,79.13,75.17,82.63,71.62,31.34,42.09,58.45,68.39,Seoul,South Korea,0,Asia
+162,"Bangalore, India",126.11,93.79,45.45,65.95,25.88,6.08,52.66,82.95,89.39,Bangalore,India,0,Asia
+163,"Coimbatore, India",125.89,44.15,60.33,69.51,22.24,8.32,46.11,63.26,78.1,Coimbatore,India,0,Asia
+164,"Montevideo, Uruguay",124.28,34.3,44.83,68.03,58.4,15.44,37.84,47.32,98.04,Montevideo,Uruguay,0,America
+165,"Medellin, Colombia",124.06,35.85,46.24,78.56,24.25,14.64,38.5,62.64,99.76,Medellin,Colombia,0,America
+166,"Sofia, Bulgaria",123.96,56.64,57.67,57.37,42.71,10.34,30.39,69.02,76.01,Sofia,Bulgaria,0,Europa
+167,"Sarajevo, Bosnia And Herzegovina",123.91,53.87,54.0,58.39,35.7,11.13,28.69,67.52,78.18,Sarajevo,Bosnia And Herzegovina,0,Europa
+168,"Kuala Lumpur, Malaysia",122.67,83.18,36.72,68.07,35.28,6.38,41.89,66.28,56.55,Kuala Lumpur,Malaysia,0,Asia
+169,"Kuwait City, Kuwait",121.86,84.92,70.75,59.99,46.82,11.55,32.18,68.84,20.22,Kuwait City,Kuwait,0,Asia
+170,"Paris, France",121.14,74.81,42.86,79.15,69.98,20.99,41.47,63.93,88.39,Paris,France,0,Europa
+171,"Bucharest, Romania",119.31,55.09,71.75,54.87,39.98,10.85,41.08,75.55,75.61,Bucharest,Romania,0,Europa
+172,"Chisinau, Moldova",119.31,37.53,56.26,50.99,31.34,10.52,27.41,63.77,76.91,Chisinau,Moldova,0,Europa
+173,"Yerevan, Armenia",118.61,26.25,78.83,55.86,41.72,16.75,31.03,57.53,63.42,Yerevan,Armenia,0,Asia
+174,"Hyderabad, India",117.1,52.72,57.18,64.96,25.07,8.63,42.17,76.29,73.54,Hyderabad,India,0,Asia
+175,"Athens, Greece",116.99,42.07,43.93,56.81,54.91,13.49,38.05,57.38,95.18,Athens,Greece,0,Europa
+176,"Milan, Italy",116.98,55.36,50.85,72.0,68.57,18.68,36.18,67.7,88.12,Milan,Italy,0,Europa
+177,"San Jose, Costa Rica",116.15,41.0,44.79,62.49,47.83,10.08,64.02,50.88,99.48,San Jose,Costa Rica,0,America
+178,"Thessaloniki, Greece",116.07,39.5,46.02,55.51,52.67,11.98,28.97,64.01,88.39,Thessaloniki,Greece,0,Europa
+179,"Minsk, Belarus",115.46,37.18,41.95,47.9,36.76,14.49,29.93,41.8,64.37,Minsk,Belarus,0,Europa
+180,"Amman, Jordan",115.36,34.99,61.05,65.01,48.61,8.36,42.08,75.89,89.05,Amman,Jordan,0,Asia
+181,"Quito, Ecuador",114.78,31.91,38.72,71.71,36.74,12.14,40.87,64.15,98.97,Quito,Ecuador,0,America
+182,"San Juan, Puerto Rico",114.25,44.53,31.64,63.04,69.45,8.78,37.46,50.83,71.25,San Juan,Puerto Rico,0,America
+183,"Ahmedabad, India",113.21,40.27,68.37,66.43,23.68,9.41,39.8,72.61,49.27,Ahmedabad,India,0,Asia
+184,"Panama City, Panama",113.05,35.28,53.33,60.07,49.78,10.9,32.76,63.17,67.84,Panama City,Panama,0,America
+185,"Tbilisi, Georgia",112.23,25.42,74.66,54.79,39.84,14.4,37.21,72.39,84.2,Tbilisi,Georgia,0,Asia
+186,"Chennai, India",112.09,60.78,59.92,70.3,23.15,12.0,47.38,75.04,53.22,Chennai,India,0,Asia
+187,"Porto Alegre, Brazil",111.62,28.78,27.63,63.31,36.53,15.01,31.32,56.43,98.74,Porto Alegre,Brazil,0,America
+188,"Shenzhen, China",111.34,75.68,70.43,58.83,42.39,42.48,35.75,60.53,81.8,Shenzhen,China,0,Asia
+189,"Rome, Italy",111.16,53.16,46.23,60.11,60.96,17.16,42.05,66.33,93.7,Rome,Italy,0,Europa
+190,"Baku, Azerbaijan",111.16,33.32,69.92,46.65,30.46,14.27,37.8,75.06,91.4,Baku,Azerbaijan,0,Asia
+191,"Kharkiv, Ukraine",111.04,39.7,51.83,48.07,24.27,12.11,38.18,57.21,65.35,Kharkiv,Ukraine,0,Europa
+192,"Moscow, Russia",110.82,57.73,62.98,65.47,53.18,20.49,50.51,56.23,55.83,Moscow,Russia,0,Europa
+193,"Belgrade, Serbia",110.4,38.45,61.97,53.49,38.55,19.42,36.18,66.06,84.14,Belgrade,Serbia,0,Europa
+194,"Gurgaon, India",108.23,74.59,45.08,63.66,28.14,7.27,36.73,91.66,59.87,Gurgaon,India,0,Asia
+195,"Noida, India",108.08,78.47,44.1,66.78,27.24,5.01,44.96,92.23,58.9,Noida,India,0,Asia
+196,"Kiev (Kyiv), Ukraine",106.83,39.74,55.01,57.4,30.22,14.76,43.05,65.31,69.95,Kiev ,Ukraine,0,Europa
+197,"Odessa (Odesa), Ukraine",106.71,32.61,47.41,50.8,26.42,14.14,36.56,62.44,79.0,Odessa ,Ukraine,0,Europa
+198,"Belo Horizonte, Brazil",105.76,24.26,36.68,63.9,35.9,20.69,43.41,52.05,98.5,Belo Horizonte,Brazil,0,America
+199,"Lahore, Pakistan",104.56,21.72,64.22,62.52,21.18,11.79,34.75,78.72,67.56,Lahore,Pakistan,0,Asia
+200,"Hong Kong, Hong Kong",104.4,70.45,78.49,65.82,74.69,43.61,42.67,67.22,83.64,Hong Kong,Hong Kong,0,Asia
+201,"Santiago, Chile",103.46,36.5,38.92,66.14,41.17,17.53,37.03,70.44,90.21,Santiago,Chile,0,America
+202,"Kolkata, India",101.93,59.99,53.56,57.9,22.41,7.93,59.8,78.36,60.9,Kolkata,India,0,Asia
+203,"Skopje, North Macedonia",100.61,36.85,52.81,54.81,33.03,15.23,28.11,82.96,76.3,Skopje,North Macedonia,0,Europa
+204,"Saint Petersburg, Russia",100.27,43.2,60.39,59.96,52.71,20.76,48.19,61.93,60.64,Saint Petersburg,Russia,0,Europa
+205,"Buenos Aires, Argentina",100.01,31.28,36.72,69.14,32.04,28.82,49.19,51.98,98.28,Buenos Aires,Argentina,0,America
+206,"Dnipro, Ukraine",98.04,35.82,48.11,53.17,26.81,12.02,33.0,80.37,69.52,Dnipro,Ukraine,0,Europa
+207,"Hanoi, Vietnam",97.41,33.5,62.44,57.59,33.09,19.59,28.68,89.02,79.04,Hanoi,Vietnam,0,Asia
+208,"Istanbul, Turkey",97.35,26.72,52.58,69.44,32.7,23.34,51.83,68.82,93.02,Istanbul,Turkey,0,Asia
+209,"Nairobi, Kenya",96.83,32.58,40.78,62.35,34.36,11.28,53.82,79.75,99.79,Nairobi,Kenya,0,Africa
+210,"Yekaterinburg, Russia",96.21,59.56,53.75,51.12,48.12,9.32,37.84,73.49,21.33,Yekaterinburg,Russia,0,Europa
+211,"Guatemala City, Guatemala",95.48,24.39,37.64,64.09,43.11,14.27,49.81,72.81,99.89,Guatemala City,Guatemala,0,America
+212,"Tirana, Albania",90.64,29.72,57.64,47.98,37.53,17.4,38.53,86.47,86.43,Tirana,Albania,0,Europa
+213,"Bogota, Colombia",89.03,27.59,34.41,65.01,23.26,22.31,52.21,70.27,97.12,Bogota,Colombia,0,America
+214,"Mexico City, Mexico",87.9,38.05,31.57,65.23,40.77,15.18,52.15,81.99,92.37,Mexico City,Mexico,0,America
+215,"Shanghai, China",85.85,56.21,68.86,63.56,45.65,47.19,46.68,73.91,83.64,Shanghai,China,0,Asia
+216,"Almaty, Kazakhstan",85.73,37.61,36.35,47.74,30.05,12.1,38.21,77.72,58.3,Almaty,Kazakhstan,0,Asia
+217,"Recife, Brazil",85.47,33.97,23.75,62.7,36.65,18.05,46.49,69.8,79.28,Recife,Brazil,0,America
+218,"Cairo, Egypt",82.42,23.12,50.26,45.47,23.04,11.33,50.02,91.48,88.45,Cairo,Egypt,0,Africa
+219,"Bangkok, Thailand",81.92,29.23,59.98,76.97,44.94,31.29,45.64,77.12,58.39,Bangkok,Thailand,0,Asia
+220,"Novosibirsk, Russia",81.67,35.43,52.27,56.91,47.59,14.99,40.0,70.55,16.14,Novosibirsk,Russia,0,Europa
+221,"Beijing, China",80.89,60.94,71.13,67.73,43.85,45.57,43.38,80.57,57.64,Beijing,China,0,Asia
+222,"Delhi, India",80.61,56.51,40.79,65.65,25.32,16.73,57.37,90.5,58.9,Delhi,India,0,Asia
+223,"Lima, Peru",78.74,30.64,29.05,58.01,34.34,17.94,50.89,85.49,97.69,Lima,Peru,0,America
+224,"Karachi, Pakistan",78.53,23.6,45.72,57.34,20.17,17.25,42.79,89.73,71.32,Karachi,Pakistan,0,Asia
+225,"Sao Paulo, Brazil",76.13,25.5,29.57,58.65,43.84,22.82,50.19,79.54,99.04,Sao Paulo,Brazil,0,America
+226,"Kathmandu, Nepal",75.83,19.88,63.28,55.76,27.6,32.08,36.65,95.66,92.64,Kathmandu,Nepal,0,Asia
+227,"Mumbai, India",75.18,48.27,55.02,65.11,25.9,35.76,54.66,83.74,71.48,Mumbai,India,0,Asia
+228,"Jakarta, Indonesia",74.0,32.72,46.63,56.15,34.63,20.22,51.81,84.79,63.76,Jakarta,Indonesia,0,Asia
+229,"Rio de Janeiro, Brazil",70.27,23.55,22.49,45.01,39.64,23.06,51.34,67.67,88.22,Rio de Janeiro,Brazil,0,America
+230,"Ho Chi Minh City, Vietnam",66.35,31.17,46.97,59.88,35.47,33.93,31.58,92.15,63.44,Ho Chi Minh City,Vietnam,0,Asia
+231,"Caracas, Venezuela",66.03,11.6,16.6,37.92,42.46,24.81,34.06,73.95,99.93,Caracas,Venezuela,0,America
+232,"Colombo, Sri Lanka",63.81,15.21,59.11,71.94,27.17,46.23,61.76,60.73,59.11,Colombo,Sri Lanka,0,Asia
+233,"Beirut, Lebanon",61.73,11.48,53.53,65.15,83.9,36.49,39.82,93.72,94.74,Beirut,Lebanon,0,Asia
+234,"Tehran, Iran",60.14,17.61,44.16,52.5,33.37,29.89,52.91,80.96,70.99,Tehran,Iran,0,Asia
+235,"Dhaka, Bangladesh",57.45,25.89,36.51,39.84,30.69,15.21,60.41,93.56,71.29,Dhaka,Bangladesh,0,Asia
+236,"Manila, Philippines",48.67,26.28,34.41,63.71,35.03,34.68,53.64,89.92,61.23,Manila,Philippines,0,Asia
+237,"Lagos, Nigeria",48.56,7.88,33.09,45.94,38.84,12.26,68.22,89.26,60.75,Lagos,Nigeria,0,Africa

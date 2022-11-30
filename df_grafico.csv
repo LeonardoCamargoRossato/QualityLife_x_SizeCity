@@ -1,0 +1,102 @@
+City_Country,Quality_Life,Growth,Area_Pop,Area_Pop_(bin),Area_Pop_Median,Area_Pop_Quartiles,Prev,Tokyo,Rank,City_Name,Country_Name
+"Ahmedabad, India",113.04,0.0239,8450228,8000K,Above Median 2.4M+,Above Upper Quartile,8253226.0,Not Tokyo,44.0,Ahmedabad,India
+"Ankara, Turkey",126.93,0.018,5309690,4000K,Above Median 2.4M+,Above Upper Quartile,5215747.0,Not Tokyo,76.0,Ankara,Turkey
+"Athens, Greece",115.69,0.0002,3153781,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3153255.0,Not Tokyo,150.0,Athens,Greece
+"Atlanta, United States",163.99,,6144050,6000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Atlanta,United States
+"Baltimore, United States",160.36,,2838327,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Baltimore,United States
+"Bangalore, India",141.67,0.0335,13193035,12000K,Above Median 2.4M+,Above Upper Quartile,12764935.0,Not Tokyo,23.0,Bangalore,India
+"Bangkok, Thailand",79.74,0.0165,10899698,10000K,Above Median 2.4M+,Above Upper Quartile,10722815.0,Not Tokyo,31.0,Bangkok,Thailand
+"Barcelona, Spain",143.73,0.006,5658472,4000K,Above Median 2.4M+,Above Upper Quartile,5624498.0,Not Tokyo,69.0,Barcelona,Spain
+"Beijing, China",58.96,0.0209,21333332,20000K,Above Median 2.4M+,Above Upper Quartile,20896820.0,Not Tokyo,8.0,Beijing,China
+"Belo Horizonte, Brazil",107.2,0.0089,6194292,6000K,Above Median 2.4M+,Above Upper Quartile,6139774.0,Not Tokyo,61.0,Belo Horizonte,Brazil
+"Berlin, Germany",163.74,0.0011,3570750,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3566791.0,Not Tokyo,131.0,Berlin,Germany
+"Birmingham, United Kingdom",149.32,0.0073,2645598,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2626374.0,Not Tokyo,189.0,Birmingham,United Kingdom
+"Bogota, Colombia",88.27,0.0158,11344312,10000K,Above Median 2.4M+,Above Upper Quartile,11167392.0,Not Tokyo,27.0,Bogota,Colombia
+"Boston, United States",174.52,,4899932,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Boston,United States
+"Brasilia, Brazil",135.44,0.0161,4803877,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4727902.0,Not Tokyo,85.0,Brasilia,Brazil
+"Brisbane, Australia",196.06,0.0134,2472222,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2439467.0,Not Tokyo,201.0,Brisbane,Australia
+"Buenos Aires, Argentina",99.23,0.0074,15369919,14000K,Above Median 2.4M+,Above Upper Quartile,15257673.0,Not Tokyo,16.0,Buenos Aires,Argentina
+"Cairo, Egypt",81.6,0.02,21750020,20000K,Above Median 2.4M+,Above Upper Quartile,21322750.0,Not Tokyo,7.0,Cairo,Egypt
+"Campinas, Brazil",125.75,0.0122,3384564,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3343816.0,Not Tokyo,136.0,Campinas,Brazil
+"Cape Town, South Africa",145.05,0.0193,4800954,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4709990.0,Not Tokyo,86.0,Cape Town,South Africa
+"Caracas, Venezuela",69.32,0.0037,2956813,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2945858.0,Not Tokyo,164.0,Caracas,Venezuela
+"Charlotte, United States",194.31,,2701046,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Charlotte,United States
+"Chennai, India",114.51,0.0239,11503293,10000K,Above Median 2.4M+,Above Upper Quartile,11235018.0,Not Tokyo,26.0,Chennai,India
+"Chicago, United States",144.81,,9509934,8000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Chicago,United States
+"Coimbatore, India",142.77,0.0259,2934621,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2860445.0,Not Tokyo,167.0,Coimbatore,India
+"Curitiba, Brazil",140.07,0.012,3770919,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3726050.0,Not Tokyo,122.0,Curitiba,Brazil
+"Dallas, United States",175.71,,7759615,6000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Dallas,United States
+"Delhi, India",77.27,0.0284,32065760,32000K,Above Median 2.4M+,Above Upper Quartile,31181376.0,Not Tokyo,2.0,Delhi,India
+"Denver, United States",167.36,,2972566,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Denver,United States
+"Detroit, United States",133.05,,4365205,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Detroit,United States
+"Dhaka, Bangladesh",56.18,0.0339,22478116,22000K,Above Median 2.4M+,Above Upper Quartile,21741090.0,Not Tokyo,4.0,Dhaka,Bangladesh
+"Dubai, United Arab Emirates",178.96,0.0147,2964382,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2921376.0,Not Tokyo,163.0,Dubai,United Arab Emirates
+"Durban, South Africa",139.09,0.0073,3199329,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3176254.0,Not Tokyo,147.0,Durban,South Africa
+"Guadalajara, Mexico",128.14,0.0153,5339583,4000K,Above Median 2.4M+,Above Upper Quartile,5259296.0,Not Tokyo,75.0,Guadalajara,Mexico
+"Guatemala City, Guatemala",95.46,0.0178,3036405,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2983174.0,Not Tokyo,157.0,Guatemala City,Guatemala
+"Hanoi, Vietnam",93.75,0.0395,5067352,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4874982.0,Not Tokyo,81.0,Hanoi,Vietnam
+"Ho Chi Minh City, Vietnam",66.41,0.0271,9077158,8000K,Above Median 2.4M+,Above Upper Quartile,8837544.0,Not Tokyo,39.0,Ho Chi Minh City,Vietnam
+"Hong Kong, Hong Kong",103.85,0.0059,7643256,6000K,Above Median 2.4M+,Above Upper Quartile,7598189.0,Not Tokyo,49.0,Hong Kong,Hong Kong
+"Houston, United States",170.9,,7206841,6000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Houston,United States
+"Hyderabad, India",112.53,0.0259,10534418,10000K,Above Median 2.4M+,Above Upper Quartile,10268653.0,Not Tokyo,32.0,Hyderabad,India
+"Istanbul, Turkey",96.13,0.0143,15636243,14000K,Above Median 2.4M+,Above Upper Quartile,15415197.0,Not Tokyo,13.0,Istanbul,Turkey
+"Izmir, Turkey",131.52,0.0106,3056149,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3024020.0,Not Tokyo,154.0,Izmir,Turkey
+"Jakarta, Indonesia",74.13,0.0146,11074811,10000K,Above Median 2.4M+,Above Upper Quartile,10915364.0,Not Tokyo,29.0,Jakarta,Indonesia
+"Johannesburg, South Africa",132.58,0.0234,6065354,6000K,Above Median 2.4M+,Above Upper Quartile,5926668.0,Not Tokyo,63.0,Johannesburg,South Africa
+"Karachi, Pakistan",79.91,0.0231,16839950,16000K,Above Median 2.4M+,Above Upper Quartile,16459472.0,Not Tokyo,12.0,Karachi,Pakistan
+"Kolkata, India",99.37,0.0107,15133888,14000K,Above Median 2.4M+,Above Upper Quartile,14974073.0,Not Tokyo,17.0,Kolkata,India
+"Kuala Lumpur, Malaysia",117.7,0.0254,8419566,8000K,Above Median 2.4M+,Above Upper Quartile,8210745.0,Not Tokyo,45.0,Kuala Lumpur,Malaysia
+"Kuwait City, Kuwait",116.64,0.0193,3238523,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3177315.0,Not Tokyo,144.0,Kuwait City,Kuwait
+"Lagos, Nigeria",48.22,0.0354,15387639,14000K,Above Median 2.4M+,Above Upper Quartile,14862111.0,Not Tokyo,15.0,Lagos,Nigeria
+"Lahore, Pakistan",106.01,0.0341,13541764,12000K,Above Median 2.4M+,Above Upper Quartile,13095166.0,Not Tokyo,22.0,Lahore,Pakistan
+"Lima, Peru",77.67,0.0149,11044607,10000K,Above Median 2.4M+,Above Upper Quartile,10882757.0,Not Tokyo,30.0,Lima,Peru
+"Lisbon, Portugal",150.09,0.0049,2986162,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2971587.0,Not Tokyo,161.0,Lisbon,Portugal
+"London, United Kingdom",126.14,0.0122,9540576,8000K,Above Median 2.4M+,Above Upper Quartile,9425622.0,Not Tokyo,35.0,London,United Kingdom
+"Los Angeles, United States",139.75,,12997353,12000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Los Angeles,United States
+"Madrid, Spain",157.33,0.0067,6713557,6000K,Above Median 2.4M+,Above Upper Quartile,6668865.0,Not Tokyo,58.0,Madrid,Spain
+"Manchester, United Kingdom",147.47,0.0074,2770434,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2750120.0,Not Tokyo,178.0,Manchester,United Kingdom
+"Manila, Philippines",46.08,0.0175,14406059,14000K,Above Median 2.4M+,Above Upper Quartile,14158573.0,Not Tokyo,18.0,Manila,Philippines
+"Medellin, Colombia",121.78,0.0084,4067758,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4033783.0,Not Tokyo,107.0,Medellin,Colombia
+"Melbourne, Australia",183.06,0.0176,5150766,4000K,Above Median 2.4M+,Above Upper Quartile,5061439.0,Not Tokyo,79.0,Melbourne,Australia
+"Mexico City, Mexico",85.94,0.0076,22085140,22000K,Above Median 2.4M+,Above Upper Quartile,21918936.0,Not Tokyo,6.0,Mexico City,Mexico
+"Miami, United States",152.51,,6091747,6000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Miami,United States
+"Milan, Italy",118.57,0.0015,3149223,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,3144473.0,Not Tokyo,151.0,Milan,Italy
+"Minneapolis, United States",169.27,,3690512,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Minneapolis,United States
+"Monterrey, Mexico",125.76,0.0164,5036535,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4955506.0,Not Tokyo,83.0,Monterrey,Mexico
+"Montreal, Canada",153.76,0.0068,4276526,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4247446.0,Not Tokyo,100.0,Montreal,Canada
+"Moscow, Russia",108.32,0.0038,12640818,12000K,Above Median 2.4M+,Above Upper Quartile,12593252.0,Not Tokyo,25.0,Moscow,Russia
+"Mumbai, India",89.39,0.0142,20961472,20000K,Above Median 2.4M+,Above Upper Quartile,20667656.0,Not Tokyo,9.0,Mumbai,India
+"Nairobi, Kenya",81.75,0.04,5118844,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4922192.0,Not Tokyo,80.0,Nairobi,Kenya
+"New York, United States",137.32,,19768458,18000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,New York,United States
+"Orlando, United States",171.75,,2691925,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Orlando,United States
+"Paris, France",123.02,0.0058,11142303,10000K,Above Median 2.4M+,Above Upper Quartile,11078546.0,Not Tokyo,28.0,Paris,France
+"Philadelphia, United States",154.13,,6228601,6000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Philadelphia,United States
+"Phoenix, United States",151.95,,4946145,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Phoenix,United States
+"Portland, United States",176.92,,2511612,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Portland,United States
+"Porto Alegre, Brazil",107.74,0.006,4185488,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4160682.0,Not Tokyo,103.0,Porto Alegre,Brazil
+"Pretoria, South Africa",133.25,0.0318,2739768,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2655282.0,Not Tokyo,182.0,Pretoria,South Africa
+"Pune, India",138.28,0.0263,6987077,6000K,Above Median 2.4M+,Above Upper Quartile,6807984.0,Not Tokyo,56.0,Pune,India
+"Recife, Brazil",83.22,0.0109,4220458,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4174774.0,Not Tokyo,101.0,Recife,Brazil
+"Rio de Janeiro, Brazil",70.28,0.0066,13634274,12000K,Above Median 2.4M+,Above Upper Quartile,13544462.0,Not Tokyo,21.0,Rio de Janeiro,Brazil
+"Riyadh, Saudi Arabia",150.72,0.0204,7538200,6000K,Above Median 2.4M+,Above Upper Quartile,7387817.0,Not Tokyo,50.0,Riyadh,Saudi Arabia
+"Rome, Italy",109.98,0.0046,4297877,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4278350.0,Not Tokyo,98.0,Rome,Italy
+"Saint Petersburg, Russia",97.91,0.0057,5535556,4000K,Above Median 2.4M+,Above Upper Quartile,5504305.0,Not Tokyo,70.0,Saint Petersburg,Russia
+"San Antonio, United States",188.14,,2601788,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,San Antonio,United States
+"San Diego, United States",188.18,,3286069,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,San Diego,United States
+"San Francisco, United States",157.57,,4623264,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,San Francisco,United States
+"San Juan, Puerto Rico",118.97,-0.0012,2442512,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2445462.0,Not Tokyo,203.0,San Juan,Puerto Rico
+"Santiago, Chile",103.1,0.0067,6856939,6000K,Above Median 2.4M+,Above Upper Quartile,6811595.0,Not Tokyo,57.0,Santiago,Chile
+"Sao Paulo, Brazil",78.54,0.0086,22429800,22000K,Above Median 2.4M+,Above Upper Quartile,22237472.0,Not Tokyo,5.0,Sao Paulo,Brazil
+"Seattle, United States",194.3,,4011553,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Seattle,United States
+"Seoul, South Korea",125.66,0.0008,9975709,8000K,Above Median 2.4M+,Above Upper Quartile,9967677.0,Not Tokyo,33.0,Seoul,South Korea
+"Shanghai, China",76.62,0.0259,28516904,28000K,Above Median 2.4M+,Above Upper Quartile,27795702.0,Not Tokyo,3.0,Shanghai,China
+"Shenzhen, China",109.11,0.019,12831330,12000K,Above Median 2.4M+,Above Upper Quartile,12591696.0,Not Tokyo,24.0,Shenzhen,China
+"Singapore, Singapore",154.54,0.008,6039577,6000K,Above Median 2.4M+,Above Upper Quartile,5991801.0,Not Tokyo,64.0,Singapore,Singapore
+"Sydney, Australia",184.52,0.013,5056571,4000K,Above Median 2.4M+,Between Lower & Upper Quartile,4991654.0,Not Tokyo,82.0,Sydney,Australia
+"Taipei, Taiwan",137.81,0.0041,2742379,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2731208.0,Not Tokyo,181.0,Taipei,Taiwan
+"Tampa, United States",178.42,,3219514,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,,Not Tokyo,,Tampa,United States
+"Tehran, Iran",56.28,0.0132,9381546,8000K,Above Median 2.4M+,Above Upper Quartile,9259009.0,Not Tokyo,38.0,Tehran,Iran
+"Tokyo, Japan",160.27,-0.0018,37274000,36000K,Above Median 2.4M+,Above Upper Quartile,37339804.0,Tokyo,1.0,Tokyo,Japan
+"Toronto, Canada",155.02,0.0093,6312974,6000K,Above Median 2.4M+,Above Upper Quartile,6254571.0,Not Tokyo,60.0,Toronto,Canada
+"Vancouver, Canada",172.66,0.0097,2631690,2000K,Above Median 2.4M+,Between Lower & Upper Quartile,2606351.0,Not Tokyo,191.0,Vancouver,Canada
+"Washington, United States",162.88,,6356434,6000K,Above Median 2.4M+,Above Upper Quartile,,Not Tokyo,,Washington,United States

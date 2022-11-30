@@ -1,0 +1,162 @@
+Variável,"Nome da variável nos arquivos vetoriais, mapas interativos e geosserviços",Descrição,Fonte,Ano,Unidade de Medida
+COD_UF,cod_uf,Código da Unidade da Federação da Cidade (Município isolado ou Município núcleo do Arranjo Populacional),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+UF,uf,Sigla da Unidade da Federação da Cidade (Município isolado ou Município núcleo do Arranjo Populacional),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+COD_CIDADE,cod_cidad,Código da Cidade (Município isolado ou Município núcleo do Arranjo Populacional),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+NOME_CIDADE,nome_cidad,Nome da Cidade (Município isolado ou Município núcleo do Arranjo Populacional),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR01,-,Estimativa de população residente em 2018,IBGE. Estimativas da população residente no Brasil e para as unidades da federação .,2018,pessoas
+VAR02,-,Área,"IBGE. Área dos municípios 2018
+",2018,km²
+VAR03,-,Produto Interno Bruto (PIB),IBGE. Produto Interno Bruto dos municípios. ,2016,Mil R$
+VAR04,-,Valor adicionado Agropecuária,IBGE. Produto Interno Bruto dos municípios. ,2016,Mil R$
+VAR05,-,Valor adicionado Indústria,IBGE. Produto Interno Bruto dos municípios. ,2016,Mil R$
+VAR06,-,Valor adicionado serviços,IBGE. Produto Interno Bruto dos municípios. ,2016,Mil R$
+VAR07,-,Valor adicionado administração pública,IBGE. Produto Interno Bruto dos municípios. ,2016,Mil R$
+VAR08,-,Imposto PIB,IBGE. Produto Interno Bruto dos municípios. ,2016,Mil R$
+VAR09,nivel,Nível da Hierarquia em 2018,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR10,classe,Denominação da Hierarquia em 2018,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR11,-,Nível da Hierarquia em 2007,"IBGE. Regiões de Influência das Cidades 2007.
+",2007,-
+VAR12,-,Denominação da Hierarquia em 2007,"IBGE. Regiões de Influência das Cidades 2007.
+",2007,-
+VAR13,-,Níveis de centralidade 1993,IBGE. Regiões de influência das cidades 1993.,2000,-
+VAR14,-,Denominação dos níveis de centralidade 1993,IBGE. Regiões de influência das cidades 1993.,2000,-
+VAR15,-,Denominação dos níveis hierarquicos 1978,IBGE. Regiões de influência das cidades 1978.,1987,-
+VAR16,-,Nível de centralidade em 1966,IBGE. Divisão do Brasil em regiões funcionais urbanas 1966.,1972,-
+VAR17,-,Denominação do nível de centralidade em 1966,IBGE. Divisão do Brasil em regiões funcionais urbanas 1966.,1972,-
+VAR18,c_gt,Classe de centralidade de Gestão do Território,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR19,-,Centralidade de Gestão do Território (CGT),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR20,-,Valor da função logarítmica de base 10 da Coeficiente de Intensidade da Gestão Empresarial (CI),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR21,-,Valor da função logarítmica de base 10 da Centralidade da Gestão Pública (CGP),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR22,c_ge,Classe de centralidade de Gestão Empresarial,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR23,-,Coeficiente de Intensidade da Gestão Empresarial (CI),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR24,-,Total de empresas-sede na cidade ,"IBGE. Cadastro Central de Empresas (CEMPRE)
+",2016,Unidade Local (UL)
+VAR25,-,Total de filiais controladas por empresas-sede da cidade,"IBGE. Cadastro Central de Empresas (CEMPRE)
+",2016,Unidade Local (UL)
+VAR26,-,Total de filiais na cidade ,"IBGE. Cadastro Central de Empresas (CEMPRE)
+",2016,Unidade Local (UL)
+VAR27,-,Total de empresas-sede que controlam filiais na Cidade,"IBGE. Cadastro Central de Empresas (CEMPRE)
+",2016,Unidade Local (UL)
+VAR28,c_gp,Classe de centralidade de Gestão Pública,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR29,-,Centralidade de Gestão Pública (CGP),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR30,-,Presença do INSS - Nível 1,INSS. Meu INSS,2019,0. Não / 1. Sim
+VAR31,-,Presença do INSS - Nível 2,INSS. Meu INSS,2019,0. Não / 1. Sim
+VAR32,-,Presença do INSS - Nível 4,INSS. Meu INSS,2019,0. Não / 1. Sim
+VAR33,-,Presença do INSS - Nível 5,INSS. Meu INSS,2019,0. Não / 1. Sim
+VAR34,-,Presença da Secretaria do Trabalho - Nível 1,"BRASIL. Secretaria Especial de Previdência e Trabalho. Portaria n. 415, de 23 de abril de 2019",2019,0. Não / 1. Sim
+VAR35,-,Presença da Secretaria do Trabalho - Nível 2,"BRASIL. Secretaria Especial de Previdência e Trabalho. Portaria n. 415, de 23 de abril de 2019",2019,0. Não / 1. Sim
+VAR36,-,Presença da Secretaria do Trabalho - Nível 3,"BRASIL. Secretaria Especial de Previdência e Trabalho. Portaria n. 415, de 23 de abril de 2019",2019,0. Não / 1. Sim
+VAR37,-,Presença da Secretaria do Trabalho - Nível 5,"BRASIL. Secretaria Especial de Previdência e Trabalho. Portaria n. 415, de 23 de abril de 2019",2019,0. Não / 1. Sim
+VAR38,-,Presença da Receita Federal - Nivel 1,"BRASIL. Secretaria de Receita Federal do Brasil. Portaria n. 2466, de 28 de dezembro de 2010",2019,0. Não / 1. Sim
+VAR39,-,Presença da Receita Federal - Nivel 2,"BRASIL. Secretaria de Receita Federal do Brasil. Portaria n. 2466, de 28 de dezembro de 2010",2019,0. Não / 1. Sim
+VAR40,-,Presença da Receita Federal - Nivel 4,"BRASIL. Secretaria de Receita Federal do Brasil. Portaria n. 2466, de 28 de dezembro de 2010",2019,0. Não / 1. Sim
+VAR41,-,Presença da Receita Federal - Nivel 5,"BRASIL. Secretaria de Receita Federal do Brasil. Portaria n. 2466, de 28 de dezembro de 2010",2019,0. Não / 1. Sim
+VAR42,-,Presença do IBGE - Nível 1,IBGE. Relatório de jurisdição das agências. ,2019,0. Não / 1. Sim
+VAR43,-,Presença do IBGE - Nível 3,IBGE. Relatório de jurisdição das agências. ,2019,0. Não / 1. Sim
+VAR44,-,Presença do IBGE - Nível 5,IBGE. Relatório de jurisdição das agências. ,2019,0. Não / 1. Sim
+VAR45,-,Presença da Justiça Federal - Nível 2,BRASIL. Tribunal Regional Federal (1ª Região).BRASIL. Tribunal Regional Federal (2ª Região). BRASIL. Tribunal Regional Federal (3ª Região). BRASIL. Tribunal Regional Federal (4ª Região). BRASIL. Tribunal Regional Federal (5ª Região).,2019,0. Não / 1. Sim
+VAR46,-,Presença da Justiça Federal - Nível 3,BRASIL. Tribunal Regional Federal (1ª Região).BRASIL. Tribunal Regional Federal (2ª Região). BRASIL. Tribunal Regional Federal (3ª Região). BRASIL. Tribunal Regional Federal (4ª Região). BRASIL. Tribunal Regional Federal (5ª Região).,2019,0. Não / 1. Sim
+VAR47,-,Presença da Justiça Federal - Nível 4,BRASIL. Tribunal Regional Federal (1ª Região).BRASIL. Tribunal Regional Federal (2ª Região). BRASIL. Tribunal Regional Federal (3ª Região). BRASIL. Tribunal Regional Federal (4ª Região). BRASIL. Tribunal Regional Federal (5ª Região).,2019,0. Não / 1. Sim
+VAR48,-,Presença da Justiça Federal - Nível 5,BRASIL. Tribunal Regional Federal (1ª Região).BRASIL. Tribunal Regional Federal (2ª Região). BRASIL. Tribunal Regional Federal (3ª Região). BRASIL. Tribunal Regional Federal (4ª Região). BRASIL. Tribunal Regional Federal (5ª Região).,2019,0. Não / 1. Sim
+VAR49,-,Presença da Justiça Eleitoral - Nível 1,Brasil. Tribunal Superior Eleitoral . ,2019,0. Não / 1. Sim
+VAR50,-,Presença da Justiça Eleitoral - Nível 3,Brasil. Tribunal Superior Eleitoral . ,2019,0. Não / 1. Sim
+VAR51,-,Presença da Justiça Eleitoral - Nível 5,Brasil. Tribunal Superior Eleitoral . ,2019,0. Não / 1. Sim
+VAR52,-,Presença da Justiça do Trabalho - Nível 1,Brasil. Tribunal Superior do Trabalho. ,2019,0. Não / 1. Sim
+VAR53,-,Presença da Justiça do Trabalho - Nível 3,Brasil. Tribunal Superior do Trabalho. ,2019,0. Não / 1. Sim
+VAR54,-,Presença da Justiça do Trabalho - Nível 5,Brasil. Tribunal Superior do Trabalho. ,2019,0. Não / 1. Sim
+VAR55,-,Cidade como Centro de Gestão do Território,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,NÃO / SIM
+VAR56,ia,Índice de Atração Geral,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR57,iat_q1,Índice de atração temática para compra de vestuário e calçados,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR58,iat_q2,Índice de atração temática para compra de móveis e eletroeletrônicos,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR59,iat_q3,Índice de atração temática para saúde de baixa e média complexidades,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR60,iat_q4,Índice de atração temática para saúde de alta complexidade,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR61,iat_q5,Índice de atração temática para ensino superior,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR62,iat_q6,Índice de atração temática para atividades culturais,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR63,iat_q7,Índice de atração temática para atividades esportivas,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR64,iat_q8,Índice de atração temática para aeroporto,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR65,iat_q9,Índice de atração temática para jornais,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR66,iat_q10,Índice de atração temática para transporte público,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR67,-,Índice de destaque da atração para compra de vestuário e calçados em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR68,-,Índice de destaque da atração para temática de móveis e eletroeletrônicos em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR69,-,Índice de destaque da atração para temática de saúde de baixa e média complexidades em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR70,-,Índice de destaque da atração para temática de saúde de alta complexidade em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR71,-,Índice de destaque da atração para temática de ensino superior em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR72,-,Índice de destaque da atração para temática de atividades culturais em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR73,-,Índice de destaque da atração para temática de atividades esportivas em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR74,-,Índice de destaque da atração para temática de aeroporto em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR75,-,Índice de destaque da atração para temática de jornais em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR76,-,Índice de destaque da atração para temática de transporte público em relação à atração geral do centro urbano (Índice de Atração Temática - Índice de Atração Geral),"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR77,q9_sem_jor,"Opção ""não circula jornal"" como resposta principal (1), secundária (2) ou de terceira ordem (3) da Cidade","IBGE. Regiões de Influência das Cidades 2018.
+",2018,"Ordens 1,2 e 3 e 0 (não possui ligação)"
+VAR78,inter,Presença de ligações em temas do módulo internacional,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,NÃO / SIM
+VAR79,-,Quantidades de tipologias de comércio (classes de comércio da CNAE) ,"IBGE. Cadastro Central de Empresas (CEMPRE)
+",2016,Classes CNAE
+VAR80,ind_comer,"Percentual da quantidade de tipologias de comércio na cidade em questão, em relação ao total de tipologias de comércio (CNAE)","IBGE. Regiões de Influência das Cidades 2018.
+",2018,Percentual
+VAR81,-,Quantidade de tipologias de serviço (classes de serviço da CNAE),"IBGE. Cadastro Central de Empresas (CEMPRE)
+",2016,Classes CNAE
+VAR82,ind_serv,"Percentual da quantidade de tipologias de serviços na cidade em questão, em relação ao total de  tipologias de serviços (CNAE)","IBGE. Regiões de Influência das Cidades 2018.
+",2018,Percentual
+VAR83,ind_dcs,Índice relacionado à soma dos percentuais das tipologias de comércio e serviços na cidade em questão,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR84,c_finan,Classe de centralidade de atividades financeiras,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR85,banc_bb,Presença de agências bancárias do Banco do Brasil,Banco Central do Brasil. Estatística Bancária Mensal por município - Estban,2019,0. Não / 1. Sim
+VAR86,banc_brad,Presença de agências bancárias do Bradesco,Banco Central do Brasil. Estatística Bancária Mensal por município - Estban,2019,0. Não / 1. Sim
+VAR87,banc_itau,Presença de agências bancárias do Itaú,Banco Central do Brasil. Estatística Bancária Mensal por município - Estban,2019,0. Não / 1. Sim
+VAR88,banc_sant,Presença de agências bancárias do Santander,Banco Central do Brasil. Estatística Bancária Mensal por município - Estban,2019,0. Não / 1. Sim
+VAR89,banc_caix,Presença de agências bancárias da Caixa Econômica Federal,Banco Central do Brasil. Estatística Bancária Mensal por município - Estban,2019,0. Não / 1. Sim
+VAR90,ens_grad,Classe de centralidade no ensino de graduação,"IBGE. Regiões de Influência das Cidades 2018. Censo da educação superior 2015. Brasília, DF: INEP, 2016. ",2018,-
+VAR91,ens_pos,Classe de centralidade no ensino de pós-graduação,"IBGE. Regiões de Influência das Cidades 2018. Censo da educação superior 2015. Brasília, DF: INEP, 2016. ",2018,-
+VAR92,ens_ead,Classe de centralidade no ensino à distância,"IBGE. Regiões de Influência das Cidades 2018. Censo da educação superior 2015. Brasília, DF: INEP, 2016. ",2018,-
+VAR93,sau_centra,Classe de centralidade de serviços de saúde,"IBGE.  Regiões de Influência das Cidades, 2018;  Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES, 2018",2018,-
+VAR94,sau_comple,Classe de complexidade de serviços de saúde,"IBGE.  Regiões de Influência das Cidades, 2018;  Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES, 2018",2018,-
+VAR95,sau_leitos,Quantidade de leitos hospitalares por mil habitantes,"IBGE.  Regiões de Influência das Cidades, 2018;  Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES, 2018",2018,leitos/habitantes
+VAR96,dom_num,Quantidade de domínios de internet,"IBGE. Regiões de Influência das Cidades, 2018; Registro de Domínios para a Internet no Brasil - Registro.br, 2019.",2019,Domínio de internet
+VAR97,dom_hab,Quantidade de domínios de internet por mil habitantes,"IBGE. Regiões de Influência das Cidades, 2018; Registro de Domínios para a Internet no Brasil - Registro.br, 2019.",2019,Domínio de internet / habitantes
+VAR98,c_tv,Classe de centralidade para redes de televisão,"Comercial Record TV, 2019; Fundação Padre Anchieta, 2019; Negócios Globo, 2019; SBT, 2019.",2019,-
+VAR99,agro_iaa_q,Índice de atração agropecuária para aquisição de insumos para a produção agropecuária,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR100,agro_iaa_1,Índice de atração agropecuária para aquisição de maquinários e implementos para a produção agropecuária,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR101,agro_iaa_2,Índice de atração agropecuária para assistência técnica para a produção agropecuária,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
+VAR102,agro_iaa_3,Índice de atração agropecuária para destino da produção agropecuária,"IBGE. Regiões de Influência das Cidades 2018.
+",2018,-
